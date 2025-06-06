@@ -1,6 +1,8 @@
 # Centralized-Log-Monitoring-Incident-Investigation-Using-ELK-and-Splunk
 
 
+🛡️Project Objectives:
+
 Built a centralized log monitoring setup using Windows 11 ARM, Kali Linux, and ELK Stack via Docker on Mac M1.
 
 Forwarded Windows logs (Sysmon + Security) to ELK and Splunk Cloud for real-time analysis.
