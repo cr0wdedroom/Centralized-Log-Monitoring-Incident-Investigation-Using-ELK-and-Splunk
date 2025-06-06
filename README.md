@@ -3,14 +3,12 @@
 
 🛡️Project Objectives:
 
-Built a centralized log monitoring setup using Windows 11 ARM, Kali Linux, and ELK Stack via Docker on Mac M1.
+Deploy a centralized log monitoring lab using ELK Stack (via Docker) and Splunk Cloud.
 
-Forwarded Windows logs (Sysmon + Security) to ELK and Splunk Cloud for real-time analysis.
+Forward Windows logs (Sysmon + Event Logs) to ELK and Splunk for analysis and visualization.
 
-Simulated attacks (brute-force logins, PowerShell abuse) from Kali to generate actionable logs.
+Simulate real-world attacks from Kali (e.g., brute-force logins, suspicious PowerShell commands).
 
-Created detection dashboards in Kibana and Splunk, monitoring failed logins and suspicious behavior.
+Create dashboards and write detection queries to surface anomalous behaviors and attack chains.
 
-Wrote custom SPL and KQL queries to detect anomalies and surface security events.
-
-Investigated incidents end-to-end, documenting findings and mitigation in detailed reports.
+Showcase core SOC skills: log forwarding, detection engineering, dashboarding, and incident investigation.
