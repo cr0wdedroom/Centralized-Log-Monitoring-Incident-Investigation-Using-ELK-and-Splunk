@@ -1,5 +1,6 @@
 # Centralized-Log-Monitoring-Incident-Investigation-Using-ELK-and-Splunk
 
+This is a centralized log monitoring and incident response project that utilizes the ELK Stack and Splunk to provide visibility into Windows endpoint activity in a simulated SOC environment. Logs from a Windows 11 ARM VM are collected, parsed, and analyzed using custom dashboards and detection logic, while attacker behavior is simulated from a Kali Linux VM to generate real-world security telemetry.
 
 🛡️Project Objectives:
 
